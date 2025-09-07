@@ -1,0 +1,47 @@
+description: Amana Bootcamp Q&A issue filters.
+path:
+  - name: Unit 0
+    description: Orientation
+    url: https://www.notion.so/karimaventures/Pre-Work-Assignment-258afe0c42868109ba71da3657baf193?v=258afe0c42868115a4ca000c98197823&p=258afe0c42868109ba71da3657baf193&pm=s
+    milestone: 1
+  - name: Unit 1
+    description: Full-Stack Architecture
+    url: https://www.notion.so/karimaventures/Unit-01-Homework-Assignment-25fafe0c428680d983d6fa90707fae51?v=258afe0c42868115a4ca000c98197823&p=25fafe0c428680d983d6fa90707fae51&pm=s
+    milestone: 2
+  - name: Unit 2
+    description: 
+    url: 
+    milestone: 3
+  - name: Unit 3
+    description: 
+    url: 
+    milestone: 4
+  - name: Unit 4
+    description: 
+    url: 
+    milestone: 5
+  - name: Unit 5
+    description: 
+    url: 
+    milestone: 6
+  - name: Unit 6
+    description: 
+    url: 
+    milestone: 7
+  - name: Unit 7
+    description: 
+    url: 
+    milestone: 8
+  - name: Unit 8
+    description: 
+    url: 
+    milestone: 9
+  - name: Unit 9
+    description: 
+    url: 
+    milestone: 10
+  - name: Unit 10
+    description: 
+    url: 
+    milestone: 11
+  
