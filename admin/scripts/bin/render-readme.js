@@ -17,7 +17,6 @@ const readFile = util.promisify(fs.readFile);
 const writeFile = util.promisify(fs.writeFile);
 
 // --- compile env from CLI args & defaults ---
-
 const env = compileEnv(process.argv.slice(2));
 
 // --- parse school configs ---
