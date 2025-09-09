@@ -9,7 +9,7 @@ const nameToTitle = (name = '') =>
     : name;
 
 export const top = ({ env = {}, modules = {}, org = {} }) =>
-  `# ${nameToTitle(org.name)}: _Q & A issues repo_
+  `# Amana Tech Bootcamp: _Q & A issues repo_
 
 <details>
 <summary>Tech Support</summary>
