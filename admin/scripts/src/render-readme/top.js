@@ -9,9 +9,7 @@ const nameToTitle = (name = '') =>
     : name;
 
 export const top = ({ env = {}, modules = {}, org = {} }) =>
-  `# ${env.repo ? nameToTitle(env.repo) : 'Study Repo'}: ${nameToTitle(
-    env.school,
-  )}
+  `# ${nameToTitle(org.name)}: _Q & A issues repo_
 
 <details>
 <summary>Tech Support</summary>
